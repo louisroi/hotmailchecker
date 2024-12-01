@@ -41,7 +41,7 @@ Naviguez jusqu'au dossier où se trouve le script.
 
 Exécutez la commande suivante pour démarrer le script :
 
-python netflixchecker.py
+python hotmailchecker.py
 
 Le script vérifiera automatiquement si une nouvelle version est disponible. Si une mise à jour est trouvée, elle sera téléchargée et le script sera redémarré.
 4. Sélectionner le Fichier combo.json
@@ -49,7 +49,7 @@ Le script vérifiera automatiquement si une nouvelle version est disponible. Si 
 Une fenêtre de dialogue apparaîtra. Sélectionnez le fichier combo.json contenant les identifiants à tester.
 5. Vérification des Identifiants
 
-Le script tentera de se connecter à Netflix avec les identifiants fournis en utilisant les proxies configurés. Les résultats de chaque tentative seront affichés dans le terminal. Chaque email et mot de passe réussi sera enregistré dans un fichier hit.txt.
+Le script tentera de se connecter à Hotmail avec les identifiants fournis en utilisant les proxies configurés. Les résultats de chaque tentative seront affichés dans le terminal. Chaque email et mot de passe réussi sera enregistré dans un fichier hit.txt.
 6. Gestion des Proxies
 
 Le script utilise une liste de proxies prédéfinie. Si nécessaire, vous pouvez la personnaliser directement dans le code.
@@ -75,7 +75,7 @@ Fichier JSON Vide
 🔒 Remarques
 Sécurité
 
-Soyez vigilant lorsque vous utilisez des identifiants pour tester des connexions à des services en ligne. Respectez toujours les conditions d'utilisation des services (comme Netflix).
+Soyez vigilant lorsque vous utilisez des identifiants pour tester des connexions à des services en ligne. Respectez toujours les conditions d'utilisation des services (comme Hotmail).
 Utilisation des Proxies
 
 Vous pouvez modifier la liste des proxies dans le code si vous avez vos propres proxies ou si vous souhaitez en utiliser d'autres.
