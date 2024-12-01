@@ -20,8 +20,8 @@ import subprocess
 init(autoreset=True)
 
 CURRENT_VERSION = "1.0.2"
-VERSION_URL = "https://raw.githubusercontent.com/louisroi/netflixchecker/refs/heads/main/latest_version.txt"
-DOWNLOAD_URL = "https://raw.githubusercontent.com/louisroi/netflixchecker/main/netflixchecker.py"
+VERSION_URL = "https://raw.githubusercontent.com/louisroi/hotmailchecker/refs/heads/main/latest_version.txt"
+DOWNLOAD_URL = "https://raw.githubusercontent.com/louisroi/hotmailchecker/main/netflixchecker.py"
 
 PROXIES = [
     "93291889-zone-custom-region-FR-sessid-DgtOgfNY-sessTime-60:0llEad0L@f.proxys5.net:6200",
