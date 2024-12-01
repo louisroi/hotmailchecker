@@ -1,4 +1,4 @@
-# 🎮 Guide d'Utilisation de Hotmail Checker<br><br>
+# 💻 Guide d'Utilisation de Hotmail Checker<br><br>
 ## 🚀 Prérequis
 
 Assurez-vous d'avoir les éléments suivants :
