@@ -41,7 +41,7 @@ Naviguez jusqu'au dossier où se trouve le script.
 
 Exécutez la commande suivante pour démarrer le script :
 
-python hotmailchecker.py
+    python hotmailchecker.py
 
 Le script vérifiera automatiquement si une nouvelle version est disponible. Si une mise à jour est trouvée, elle sera téléchargée et le script sera redémarré.
 4. Sélectionner le Fichier combo.json
@@ -56,23 +56,23 @@ Le script utilise une liste de proxies prédéfinie. Si nécessaire, vous pouvez
 7. Fin de la Vérification
 
 À la fin du processus, le script créera un fichier hit.txt dans le même répertoire, contenant tous les emails et mots de passe qui ont réussi la connexion.
-⚙️ Résolution des Problèmes
+## ⚙️ Résolution des Problèmes
 Erreur de Téléchargement
 
-    Vérifiez votre connexion Internet.
-    Assurez-vous que l'URL du téléchargement est accessible.
+Vérifiez votre connexion Internet.
+Assurez-vous que l'URL du téléchargement est accessible.
 
 Fichier JSON Vide
 
-    Assurez-vous que le fichier combo.json contient des données valides.
-    Si le fichier est vide ou mal formaté, le script échouera.
+Assurez-vous que le fichier combo.json contient des données valides.
+Si le fichier est vide ou mal formaté, le script échouera.
 
 Échec de Connexion
 
-    Vérifiez l'exactitude des identifiants dans le fichier combo.json.
-    Si les proxies sont utilisés, assurez-vous qu'ils fonctionnent correctement.
+Vérifiez l'exactitude des identifiants dans le fichier combo.json.
+Si les proxies sont utilisés, assurez-vous qu'ils fonctionnent correctement.
 
-🔒 Remarques
+## 🔒 Remarques
 Sécurité
 
 Soyez vigilant lorsque vous utilisez des identifiants pour tester des connexions à des services en ligne. Respectez toujours les conditions d'utilisation des services (comme Hotmail).
@@ -80,4 +80,4 @@ Utilisation des Proxies
 
 Vous pouvez modifier la liste des proxies dans le code si vous avez vos propres proxies ou si vous souhaitez en utiliser d'autres.
 
-Si vous avez besoin d'aide ou avez des questions, n'hésitez pas à me contacter sur Discord ! 😊
+# Si vous avez besoin d'aide ou avez des questions, n'hésitez pas à me contacter sur Discord ! 😊
