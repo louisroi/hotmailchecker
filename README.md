@@ -56,6 +56,7 @@ Le script utilise une liste de proxies prédéfinie. Si nécessaire, vous pouvez
 7. Fin de la Vérification
 
 À la fin du processus, le script créera un fichier hit.txt dans le même répertoire, contenant tous les emails et mots de passe qui ont réussi la connexion.
+
 ## ⚙️ Résolution des Problèmes
 Erreur de Téléchargement
 
@@ -73,11 +74,9 @@ Vérifiez l'exactitude des identifiants dans le fichier combo.json.
 Si les proxies sont utilisés, assurez-vous qu'ils fonctionnent correctement.
 
 ## 🔒 Remarques
-Sécurité
 
-Soyez vigilant lorsque vous utilisez des identifiants pour tester des connexions à des services en ligne. Respectez toujours les conditions d'utilisation des services (comme Hotmail).
-Utilisation des Proxies
+Sécurité : Faites preuve de prudence lors du test des identifiants pour des services en ligne. Respectez les conditions d'utilisation de Hotmail.
 
-Vous pouvez modifier la liste des proxies dans le code si vous avez vos propres proxies ou si vous souhaitez en utiliser d'autres.
+Utilisation des Proxies : Vous pouvez modifier la liste des proxies dans le code selon vos besoins.
 
 # Si vous avez besoin d'aide ou avez des questions, n'hésitez pas à me contacter sur Discord ! 😊
